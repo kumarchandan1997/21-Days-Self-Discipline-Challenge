@@ -110,6 +110,58 @@
 
 ---
 
+# 📅 Day 2 — 29-Dec-2025
+
+## ✅ Rules Status
+
+- **No Sugar:** ✅  
+- **No Porn:** ✅  
+- **No Masturbation:** ✅  
+- **Healthy Food:** ✅  
+- **Gym:** ✅ (2 Hours)  
+- **Wake Up:** 5:45 AM  
+- **Sleep:** 11:30 PM  
+
+---
+
+## ⏰ Daily Timeline
+
+### 🌅 Morning
+- Wake up at **5:45 AM**
+- **Yoga – 15 minutes**
+- **Study – 4 hours**
+
+---
+
+### 🍽️ Food
+- **Rice**
+- **Dal**
+- **Saag**
+- **Salad**
+
+---
+
+### 🏋️ Evening
+- **Gym:**  
+  - Time: **6:00 PM – 8:00 PM**
+
+---
+
+### 🌙 Night
+- Took bath
+- **Sleep at 11:30 PM**
+
+---
+
+## 💪 Day 2 Summary
+- Sugar control maintained ✅  
+- Mind discipline strong 🔒  
+- Study consistency improved 📚  
+- Gym completed (2 hours) 🏋️  
+- Overall day: **Productive & Clean** 🔥  
+
+---
+
 ## 🔥 Motivation
 > *"Discipline is choosing between what you want now and what you want most."*
 
@@ -120,7 +172,7 @@
 | Day | Date | Status |
 |----|------|--------|
 | 1 | 28-Dec-2025 | ✅ Completed |
-| 2 | 29-Dec-2025 | ⬜ |
+| 2 | 29-Dec-2025 | ✅ Completed |
 | 3 | 30-Dec-2025 | ⬜ |
 | ... | ... | ... |
 | 21 | 17-Jan-2026 | ⬜ |
