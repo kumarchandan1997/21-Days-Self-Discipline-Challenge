@@ -294,12 +294,63 @@
 
 ---
 
+# 📅 Day 5 — 01-Jan-2026
+
+## ✅ Rules Status
+
+- **No Sugar:** ✅  
+- **No Porn:** ✅  
+- **No Masturbation:** ✅  
+- **Healthy Food:** ✅  
+- **Gym:** ✅ (2 Hours)  
+- **Wake Up:** 8:30 AM  
+- **Sleep:** —  
+
+---
+
+## ⏰ Daily Timeline
+
+### 🌅 Morning
+- Wake up at **8:30 AM**
+- Morning drink:
+  - Warm water + honey + lemon
+- **Study – 4 hours**
+
+---
+
+### 🍽️ Lunch
+- **Chilla (Besan + Vegetables)**
+
+---
+
+### 🏋️ Evening
+- **Gym:**  
+  - Time: **6:00 PM – 8:00 PM**
+
+---
+
+### 🌙 Dinner
+- Paneer  
+- Chapati  
+- Rice  
+
+---
+
+## 💪 Day 5 Summary
+- New year started with discipline 🔥  
+- Strong study session 📚  
+- Clean food choices 🥗  
+- Gym consistency maintained 🏋️  
+- Core rules respected ✅  
+
+---
+
 ## 🔥 Motivation
 > *"Discipline is choosing between what you want now and what you want most."*
 
 ---
 
-## 📈 Progress Tracker
+## 📈 Progress Tracker (Updated)
 
 | Day | Date | Status |
 |----|------|--------|
@@ -307,10 +358,10 @@
 | 2 | 29-Dec-2025 | ✅ Completed |
 | 3 | 30-Dec-2025 | ✅ Completed |
 | 4 | 31-Dec-2025 | ✅ Completed |
-| 5 | 01-Jan-2026 | ⬜ |
+| 5 | 01-Jan-2026 | ✅ Completed |
+| 6 | 02-Jan-2026 | ⬜ |
 | ... | ... | ... |
 | 21 | 17-Jan-2026 | ⬜ |
-
 ---
 
 ### 🧠 Note
