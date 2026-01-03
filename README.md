@@ -345,6 +345,56 @@
 
 ---
 
+# 📅 Day 6 — 02-Jan-2026
+
+## ✅ Rules Status
+
+- **No Sugar:** ✅  
+- **No Porn:** ✅  
+- **No Masturbation:** ✅  
+- **Healthy Food:** ✅  
+- **Gym:** ✅ (2 Hours)  
+- **Wake Up:** 5::45 AM  
+- **Sleep:** —  
+
+---
+
+## ⏰ Daily Timeline
+
+### 🌅 Morning
+- Wake up at **5:45 AM**
+- Morning drink:
+  - Warm water + honey + lemon
+- **Study – 1.5 hours**
+
+---
+
+### 🍽️ Lunch
+- **Chilla (Besan + Vegetables)**
+
+---
+
+### 🏋️ Evening
+- **Gym:**  
+  - Time: **6:00 PM – 8:00 PM**
+
+---
+
+### 🌙 Dinner
+- Paneer  
+- Chapati  
+- Rice  
+
+---
+
+## 💪 Day 6 Summary
+- New year started with discipline 🔥  
+- Strong study session 📚  
+- Clean food choices 🥗  
+- Gym consistency maintained 🏋️  
+- Core rules respected ✅  
+
+
 ## 🔥 Motivation
 > *"Discipline is choosing between what you want now and what you want most."*
 
@@ -359,7 +409,7 @@
 | 3 | 30-Dec-2025 | ✅ Completed |
 | 4 | 31-Dec-2025 | ✅ Completed |
 | 5 | 01-Jan-2026 | ✅ Completed |
-| 6 | 02-Jan-2026 | ⬜ |
+| 5 | 02-Jan-2026 | ✅ Completed |
 | ... | ... | ... |
 | 21 | 17-Jan-2026 | ⬜ |
 ---
