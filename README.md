@@ -394,6 +394,66 @@
 - Gym consistency maintained 🏋️  
 - Core rules respected ✅  
 
+# 📅 Day 7 — 03-Jan-2026
+
+## ✅ Rules Status
+
+- **No Sugar:** ✅  
+- **No Porn:** ✅  
+- **No Masturbation:** ✅  
+- **Healthy Food:** ✅  
+- **No Outside Food:** ✅  
+- **Gym:** ✅ (1 Hour 45 Minutes)  
+- **Wake Up:** 6:00 AM  
+- **Sleep:** 11:30 PM  
+
+---
+
+## ⏰ Daily Timeline
+
+### 🌅 Morning
+- Wake up at **6:00 AM**
+- **Study – 1 hour 45 minutes**
+
+---
+
+### 🍽️ Breakfast
+- **Paneer**
+- **Chapati**
+
+---
+
+### 🏢 Day Time
+- Went to **office**
+
+---
+
+### 🏋️ Evening
+- **Gym:**  
+  - Duration: **1 Hour 45 Minutes**
+
+---
+
+### 🌙 Dinner
+- **Boondi + Dahi**
+- **Mixed Sabji**
+- **Chapati**
+
+---
+
+### 🌙 Night
+- **Sleep at 11:30 PM**
+
+---
+
+## 💪 Day 7 Summary
+- Core rules strictly followed ✅  
+- No sugar, no porn, no masturbation 🔒  
+- No outside food maintained 🥗  
+- Study and gym balance achieved 📚🏋️  
+- Discipline streak continued strongly 🔥  
+
+---
 
 ## 🔥 Motivation
 > *"Discipline is choosing between what you want now and what you want most."*
@@ -409,7 +469,8 @@
 | 3 | 30-Dec-2025 | ✅ Completed |
 | 4 | 31-Dec-2025 | ✅ Completed |
 | 5 | 01-Jan-2026 | ✅ Completed |
-| 5 | 02-Jan-2026 | ✅ Completed |
+| 6 | 02-Jan-2026 | ✅ Completed |
+| 7 | 03-Jan-2026 | ✅ Completed |
 | ... | ... | ... |
 | 21 | 17-Jan-2026 | ⬜ |
 ---
