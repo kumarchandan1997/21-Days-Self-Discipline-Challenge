@@ -455,6 +455,71 @@
 
 ---
 
+# 📅 Day 8 — 04-Jan-2026 (Sunday)
+
+## ✅ Rules Status
+
+- **No Sugar:** ✅  
+- **No Porn:** ✅  
+- **No Masturbation:** ✅  
+- **Healthy Food:** ✅  
+- **No Outside Food:** ✅  
+- **Gym:** ✅ (2 Hours 20 Minutes)  
+- **Wake Up:** 8:00 AM  
+- **Sleep:** 11:45 PM  
+
+---
+
+## ⏰ Daily Timeline
+
+### 🌅 Morning
+- Wake up at **8:00 AM** (Sunday)
+- **Study – 4 hours**
+
+---
+
+### 🍽️ Breakfast (Nasta)
+- **Rice fry**
+- **Paneer**
+- **Vegetables**
+
+---
+
+### 🍽️ Lunch
+- **Rice**
+- **Dal**
+- **Salad**
+- **Boondi + Dahi**
+
+---
+
+### 🏋️ Evening
+- **Gym:**  
+  - Duration: **2 Hours 20 Minutes**
+
+---
+
+### 🌙 Dinner
+- **Plain Dosa**
+
+---
+
+### 🌙 Night
+- **Sleep at 11:45 PM**
+
+---
+
+## 💪 Day 8 Summary
+- Sunday discipline maintained ✅  
+- Long study session completed 📚  
+- Heavy gym workout done 🏋️🔥  
+- No sugar, no porn, no masturbation 🔒  
+- No outside food respected 🥗  
+- Discipline streak continues strong 💯  
+
+---
+
+
 ## 🔥 Motivation
 > *"Discipline is choosing between what you want now and what you want most."*
 
@@ -471,6 +536,7 @@
 | 5 | 01-Jan-2026 | ✅ Completed |
 | 6 | 02-Jan-2026 | ✅ Completed |
 | 7 | 03-Jan-2026 | ✅ Completed |
+| 8 | 04-Jan-2026 | ✅ Completed |
 | ... | ... | ... |
 | 21 | 17-Jan-2026 | ⬜ |
 ---
