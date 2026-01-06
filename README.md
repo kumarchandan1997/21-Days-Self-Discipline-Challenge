@@ -519,6 +519,70 @@
 
 ---
 
+# 📅 Day 9 — 05-Jan-2026
+
+## ✅ Rules Status
+
+- **No Sugar:** ✅  
+- **No Porn:** ✅  
+- **No Masturbation:** ✅  
+- **Healthy Food:** ✅  
+- **No Outside Food:** ✅  
+- **Gym:** ✅ (1 Hour 40 Minutes)  
+- **Wake Up:** 8:00 AM  
+- **Sleep:** 12:00 AM  
+
+---
+
+## ⏰ Daily Timeline
+
+### 🌅 Morning
+- Wake up at **8:00 AM**
+- Prepared **breakfast**
+- Got ready for **office**
+
+---
+
+### 🏢 Office
+- **Office Time:** 9:30 AM – 6:30 PM
+
+---
+
+### 🍽️ Lunch
+- **Chana**
+- **Moong**
+- **Carrot**
+- **Mungfali (Peanuts)**
+- **Banana**
+
+---
+
+### 🏋️ Evening
+- **Gym:**  
+  - Duration: **1 Hour 40 Minutes**
+
+---
+
+### 🌙 Dinner
+- **Soyabean**
+- **Chapati**
+
+---
+
+### 🌙 Night
+- **Sleep at 12:00 AM**
+
+---
+
+## 💪 Day 9 Summary
+- Office + gym balance maintained 💼🏋️  
+- Clean and protein-rich meals 🥗  
+- No sugar, no porn, no masturbation 🔒  
+- No outside food followed strictly ✅  
+- Discipline streak continues strong 🔥  
+
+---
+
 
 ## 🔥 Motivation
 > *"Discipline is choosing between what you want now and what you want most."*
@@ -537,6 +601,7 @@
 | 6 | 02-Jan-2026 | ✅ Completed |
 | 7 | 03-Jan-2026 | ✅ Completed |
 | 8 | 04-Jan-2026 | ✅ Completed |
+| 9 | 05-Jan-2026 | ✅ Completed |
 | ... | ... | ... |
 | 21 | 17-Jan-2026 | ⬜ |
 ---
