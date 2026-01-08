@@ -583,6 +583,143 @@
 
 ---
 
+# 📅 Day 10 — 06-Jan-2026
+
+## ✅ Rules Status
+
+- **No Sugar:** ✅  
+- **No Porn:** ✅  
+- **No Masturbation:** ✅  
+- **Healthy Food:** ✅  
+- **No Outside Food:** ✅  
+- **Gym:** ✅ (1 Hour 45 Minutes)  
+- **Wake Up:** 7:00 AM  
+- **Sleep:** 12:00 AM  
+
+---
+
+## ⏰ Daily Timeline
+
+### 🌅 Morning
+- Wake up at **7:00 AM**
+- **Study – 1 hour**
+
+---
+
+### 🍽️ Breakfast
+- **Omelette**
+- **Chapati**
+- **Salad**
+
+---
+
+### 🏢 Office
+- Went to **office**
+
+---
+
+### 🍽️ Lunch
+- **Rice**
+- **Dal**
+- **Salad**
+
+---
+
+### 🏋️ Evening
+- **Gym:**  
+  - Duration: **1 Hour 45 Minutes**
+  - 🏆 **Plank Record Broken:**  
+    - Previous: **2:30 minutes**  
+    - New Record: **5:15 minutes** 🔥🔥
+
+---
+
+### 🌙 Dinner
+- **Soya Bean**
+- **Chapati**
+
+---
+
+### 🌙 Night
+- **Sleep at 12:00 AM**
+
+---
+
+## 💪 Day 10 Summary
+- Discipline maintained throughout the day ✅  
+- Major strength milestone achieved 🏆  
+- Plank endurance more than doubled 🔥  
+- Clean food & strict control followed 🥗  
+- No sugar, no porn, no outside food 🔒  
+- Physical + mental strength improving 💯  
+
+---
+
+# 📅 Day 11 — 07-Jan-2026
+
+## ✅ Rules Status
+
+- **No Sugar:** ✅  
+- **No Porn:** ✅  
+- **No Masturbation:** ✅  
+- **Healthy Food:** ✅  
+- **No Outside Food:** ❌ (Office party — controlled choice)  
+- **Gym:** ✅ (1 Hour 30 Minutes)  
+- **Wake Up:** 8:00 AM  
+- **Sleep:** —  
+
+---
+
+## ⏰ Daily Timeline
+
+### 🌅 Morning
+- Wake up at **8:00 AM**
+
+---
+
+### 🍽️ Breakfast
+- **Soya Beans**
+- **Curd**
+
+---
+
+### 🍽️ Lunch
+- **Chana**
+- **Moong**
+- **Beans**
+- **Rajma**
+- **Mooli (Radish)**  
+  *(All steamed)*
+
+---
+
+### 🏢 Day Time
+- Went to **office**
+
+---
+
+### 🏋️ Evening
+- **Gym:**  
+  - Duration: **1 Hour 30 Minutes**
+
+---
+
+### 🌙 Dinner (Office Party)
+- **Salad**
+- **Fruits**  
+*(Avoided sugar & junk despite party)*
+
+---
+
+## 💪 Day 11 Summary
+- Strong food discipline even in social setting 🧠  
+- Office party temptation handled smartly 🔒  
+- Gym consistency maintained 🏋️  
+- No sugar, no porn, no masturbation ✅  
+- Self-control over convenience 💯  
+
+---
+
 
 ## 🔥 Motivation
 > *"Discipline is choosing between what you want now and what you want most."*
@@ -602,6 +739,8 @@
 | 7 | 03-Jan-2026 | ✅ Completed |
 | 8 | 04-Jan-2026 | ✅ Completed |
 | 9 | 05-Jan-2026 | ✅ Completed |
+| 10| 06-Jan-2026 | ✅ Completed |
+| 11| 07-Jan-2026 | ✅ Completed |
 | ... | ... | ... |
 | 21 | 17-Jan-2026 | ⬜ |
 ---
