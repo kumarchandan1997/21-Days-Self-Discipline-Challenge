@@ -720,6 +720,78 @@
 
 ---
 
+# 📅 Day 12 — 08-Jan-2026
+
+## ✅ Rules Status
+
+- **No Sugar:** ✅  
+- **No Porn:** ✅  
+- **No Masturbation:** ✅  
+- **Healthy Food:** ✅  
+- **No Outside Food:** ✅  
+- **Gym:** ✅ (1 Hour)  
+- **Wake Up:** 8:00 AM  
+- **Sleep:** 11:00 PM  
+
+---
+
+## ⏰ Daily Timeline
+
+### 🌅 Morning
+- Wake up at **8:00 AM**
+- **No study** (rest/recovery focus)
+
+---
+
+### 🍽️ Breakfast
+- **Egg**
+- **Banana**
+
+---
+
+### 🍽️ Lunch
+- **Oats**
+- **Milk**
+- **Banana**
+
+---
+
+### 🏢 Day Time
+- Went to **office**
+
+---
+
+### 🏋️ Evening
+- **Gym:**  
+  - Duration: **1 Hour**
+  - 🏆 **Plank Record Broken Again:**  
+    - Previous: **2:30 minutes**  
+    - New Record: **6:00 minutes** 🔥🔥🔥
+
+---
+
+### 🌙 Dinner
+- **Plank**
+- **Rice**
+
+---
+
+### 🌙 Night
+- **Sleep at 11:00 PM**
+
+---
+
+## 💪 Day 12 Summary
+- Rest-balanced day with clean food 🥗  
+- Massive plank endurance improvement 🏆  
+- Gym consistency maintained 🏋️  
+- No sugar, no porn, no masturbation 🔒  
+- No outside food respected 💯  
+- Discipline streak continues strong 🔥  
+
+---
+
+
 
 ## 🔥 Motivation
 > *"Discipline is choosing between what you want now and what you want most."*
@@ -741,6 +813,7 @@
 | 9 | 05-Jan-2026 | ✅ Completed |
 | 10| 06-Jan-2026 | ✅ Completed |
 | 11| 07-Jan-2026 | ✅ Completed |
+| 12| 08-Jan-2026 | ✅ Completed |
 | ... | ... | ... |
 | 21 | 17-Jan-2026 | ⬜ |
 ---
