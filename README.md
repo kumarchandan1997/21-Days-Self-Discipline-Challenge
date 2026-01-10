@@ -790,6 +790,74 @@
 - Discipline streak continues strong 🔥  
 
 ---
+# 📅 Day 13 — 09-Jan-2026
+
+## ❌ Rules Status
+
+- **No Sugar:** ❌  
+- **No Porn:** ❌  
+- **No Masturbation:** ❌  
+- **Healthy Food:** ❌  
+- **No Outside Food:** ❌  
+- **Gym:** ❌  
+- **Wake Up:** 8:00 AM  
+- **Sleep:** 12:00 AM  
+
+---
+
+## ⏰ Daily Timeline
+
+### 🌅 Morning
+- Wake up at **8:00 AM**
+- **No study**
+
+---
+
+### 🍽️ Breakfast
+- **Fried Rice**
+- **Paneer**
+
+---
+
+### 🍽️ Lunch
+- **Fried Rice**
+- **Paneer**
+
+---
+
+### 🏢 Day Time
+- Went to **office**
+
+---
+
+### 🏋️ Evening
+- **Gym:** ❌ (Skipped)
+
+---
+
+### 🌙 Dinner
+- **Roti**
+- **Sabji**
+- **Rice**
+- **Dal**
+
+---
+
+### 🌙 Night
+- **Sleep at 12:00 AM**
+- Rules broken during night ❌
+
+---
+
+## 💪 Day 13 Summary
+- Discipline **broken** ❌  
+- Multiple core rules violated  
+- No gym, no study, poor food control  
+- **Honesty maintained by logging everything** ✅  
+- Awareness achieved — recovery possible  
+
+---
+
 
 
 
@@ -814,6 +882,7 @@
 | 10| 06-Jan-2026 | ✅ Completed |
 | 11| 07-Jan-2026 | ✅ Completed |
 | 12| 08-Jan-2026 | ✅ Completed |
+| 13| 09-Jan-2026 | ✅ Completed |
 | ... | ... | ... |
 | 21 | 17-Jan-2026 | ⬜ |
 ---
