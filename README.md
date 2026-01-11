@@ -858,6 +858,65 @@
 
 ---
 
+# 📅 Day 14 — 10-Jan-2026
+
+## ✅ Rules Status
+
+- **No Sugar:** ✅  
+- **No Porn:** ✅  
+- **No Masturbation:** ✅  
+- **Healthy Food:** ✅  
+- **No Outside Food:** —  
+- **Gym:** ✅ (1 Hour)  
+- **Wake Up:** 8:00 AM  
+- **Sleep:** —  
+
+---
+
+## ⏰ Daily Timeline
+
+### 🌅 Morning
+- Wake up at **8:00 AM**
+- **Study – 1 hour**
+
+---
+
+### 🍽️ Breakfast (Nasta)
+- **Oats**
+- **Milk**
+- **Banana**
+
+---
+
+### 🍽️ Lunch
+- **Puri**
+- **Sabji**
+
+---
+
+### 🏋️ Evening
+- **Gym:**  
+  - Duration: **1 Hour**
+
+---
+
+### 🌙 Dinner
+- **Saag**
+- **Chapati**
+- **Raita**
+
+---
+
+## 💪 Day 14 Summary
+- Strong recovery after a weak day 🔁  
+- Gym and study restarted 💪📚  
+- Clean control over urges 🔒  
+- No sugar, no porn, no masturbation ✅  
+- Discipline back on track 🔥  
+
+---
+
+
 
 
 
@@ -883,6 +942,7 @@
 | 11| 07-Jan-2026 | ✅ Completed |
 | 12| 08-Jan-2026 | ✅ Completed |
 | 13| 09-Jan-2026 | ✅ Completed |
+| 14| 10-Jan-2026 | ✅ Completed |
 | ... | ... | ... |
 | 21 | 17-Jan-2026 | ⬜ |
 ---
